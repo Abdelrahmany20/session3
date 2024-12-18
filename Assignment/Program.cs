@@ -51,7 +51,7 @@
 
             Console.WriteLine("Enter  Number 2 : ");
             int Number_2 = int.Parse(Console.ReadLine());
-
+            
             Console.WriteLine("Enter  Number 3 : ");
             int Number_3 = int.Parse(Console.ReadLine());
 
